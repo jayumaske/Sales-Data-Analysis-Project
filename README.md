@@ -1,1 +1,2 @@
 This project involves analyzing sales data for a company to gain insights into sales trends, customer behavior, and business performance. The dataset used for this project contains information about orders, customers, products, and sales transactions.
+This project involves analyzing a sizable sales dataset to identify patterns, best-selling items, and key revenue indicators. The goal is to provide data-driven insights to support business decision-making and improve sales strategies.
